@@ -10,6 +10,8 @@ source ~/.bash_profile
 
 $GOROOT
 
+go get github.com/gin-gonic/gin
+
 Golang常用框架
 
 WEB框架
