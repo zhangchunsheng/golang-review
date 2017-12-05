@@ -1,6 +1,13 @@
 # golang-review
 golang review
 
+vim ~/.bash_profile
+
+GOPATH=/Users/changetheworld/go
+export GOPATH
+
+source ~/.bash_profile
+
 Golang常用框架
 
 WEB框架
