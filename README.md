@@ -8,6 +8,8 @@ export GOPATH
 
 source ~/.bash_profile
 
+$GOROOT
+
 Golang常用框架
 
 WEB框架
